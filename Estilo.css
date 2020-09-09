@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana;
+    background-image: url(Img/ImFondo22.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    align-self: center;
+}
+p{
+    color: rgb(0, 0, 0) ;
+}
+h2{
+    color: rgb(170, 25, 25);
+}
+
+#navegar ul{
+    list-style-type: none;
+    align-content: center;
+}
+#navegar ul li{
+    
+    display: inline;
+
+}
+#navegar ul li a{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+	padding: 10px 10px;
+}
+#saga table td{
+    border: black solid 1px;
+}
+
